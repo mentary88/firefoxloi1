@@ -1,2 +1,3 @@
-# firefoxloi1
-firefoxloi1
+git add .
+git commit -m "Update README"
+git push origin main
